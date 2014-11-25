@@ -4,4 +4,5 @@ index.php
 config/config.php
 config/crosswalks.php
 scripts/*.config.php
+images/logo.png
 *~
