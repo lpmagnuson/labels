@@ -17,7 +17,7 @@ Print/edit a single label
 
 Launch yoursite.com/WMS-Labeling and click 'New/Reset Barcodes'  Scan in a barcode and indicate whether a pocket label is desired.  Then click "Make Labels".
 
-In the preview screen, click anywhere on the call number to edit it.
+In the preview screen, click anywhere on the call number to edit it.  Make your changes and click OK.
 
 ![Editing](images/editing.png)
 
